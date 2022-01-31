@@ -1,0 +1,10 @@
+{
+  "name": "@theorylabs/project-eko",
+  "version": "0.0.1",
+  "description": "Monorepo containing all the magical shenanigans for the Eko project.",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "workspaces/**/*"
+  ]
+}
